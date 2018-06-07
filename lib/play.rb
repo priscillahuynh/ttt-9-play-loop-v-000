@@ -41,4 +41,5 @@ def play(board)
   turn(board)
   player +=1
 end
+end
 # Define your play method below
